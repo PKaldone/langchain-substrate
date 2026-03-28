@@ -1,0 +1,17 @@
+SUBSTRATE Software License Agreement
+
+Copyright 2026 Garmo Labs, LLC. All rights reserved.
+
+This software is proprietary and confidential. Unauthorized copying,
+modification, distribution, or use of this software, via any medium,
+is strictly prohibited without the express written permission of
+Garmo Labs, LLC.
+
+The integration client code in this package is provided solely for the
+purpose of connecting to the SUBSTRATE platform operated by Garmo Labs.
+You may use this client code only in conjunction with a valid SUBSTRATE
+API key obtained from https://garmolabs.com/substrate.html
+
+For the full license agreement, see: https://garmolabs.com/license.html
+
+Contact: legal@garmolabs.com

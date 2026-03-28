@@ -4,10 +4,10 @@ build-backend = "hatchling.build"
 
 [project]
 name = "langchain-substrate"
-version = "0.1.0"
+version = "0.1.1"
 description = "SUBSTRATE cognitive memory integration for LangChain and LangGraph"
 readme = "README.md"
-license = "MIT"
+license = "LicenseRef-Proprietary"
 requires-python = ">=3.10"
 authors = [
     { name = "Garmo Labs", email = "hello@garmolabs.com" },
@@ -16,7 +16,6 @@ keywords = ["langchain", "langgraph", "substrate", "memory", "ai", "cognitive"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",

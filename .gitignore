@@ -1,0 +1,17 @@
+# Secrets
+.npmrc
+.pypirc
+.mcpregistry_*
+*.token
+.env
+.env.*
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+node_modules/
+.coverage
+
